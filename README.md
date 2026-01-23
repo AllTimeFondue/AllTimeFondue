@@ -1,6 +1,6 @@
 ## Hi there 👋
-<div style="color:red;">
-  <h1>
+<div>
+  <h1 style="text-color: red">
     Super GitHub
   </h1>  
 </div>
