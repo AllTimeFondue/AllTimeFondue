@@ -1,5 +1,5 @@
 <div align="center">
-	<a class="link" href="https://github.com/AllTimeFondue/AllTimeFondue/blob/main/header.svg">
+	<a class="link" href="https://github.com/AllTimeFondue/AllTimeFondue/blame/main/header.svg">
 		<img class="image" src="header.svg" alt="click to see source">
 	</a>
 </div>
