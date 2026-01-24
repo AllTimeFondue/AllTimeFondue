@@ -1,6 +1,6 @@
-<svg fill="none" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="100%" height="100%" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
   	<foreignObject height="100%" width="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml" width="100%" height="100%">
 			<style>
 				.wrapper {
 					box-sizing: border-box;
@@ -11,12 +11,13 @@
 					background: radial-gradient(ellipse at center, rgba(47, 62, 70, 1) 0%, rgba(53, 79, 82, 1) 50%, rgba(82, 121, 111, 1) 85%, rgba(132, 169, 140, 1) 100%);
 
 					display: flex;
+					flex-direction: column;
 					align-items: center;
 					justify-content: center;
 
 					padding: 15px;
 				}
-        		.text {
+        		.title {
 					height: 100%;
 					width: 100%;
 
@@ -29,13 +30,53 @@
 					font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 					font-weight: 800;
         		}  
+				.techStack {
+					display: flex;
+					flex-direction: row;
+					align-items: center;
+					justify-content: space-evenly;
+					gap: 2rem;
+				}
+				.techStackItem {
+					display: flex;
+					align-items: center;
+					justify-content: center;
+				}
     		</style>
 
+
+
 			<div class="wrapper">
-				<div class="text">
+				<div class="title">
 					Welcome wanderer !
 				</div>
+
+				<div class="techStack">
+				 
+					<div class="techStackItem">
+						Git
+					</div>
+
+					<div class="techStackItem">
+						C / C++
+					</div>
+
+					<div class="techStackItem">
+						Js / Ts
+					</div>
+
+					<div class="techStackItem">
+						HTML / CSS
+					</div>
+
+					<div class="techStackItem">
+						Docker
+					</div>
+
+				</div>
 			</div>
+
+
     	</div>
 	</foreignObject>
 </svg>
