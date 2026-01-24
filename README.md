@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/AllTimeFondue/AllTimeFondue/blame/main/header.svg">
-		<img src="header.svg" alt="click to see source">
+		<img src="header.svg" alt="click to see source" width="100%" height="auto" style="display:block;">
 	</a>
 </div>
 
