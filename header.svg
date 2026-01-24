@@ -1,25 +1,22 @@
 <svg fill="none" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
   	<foreignObject height="100%" width="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml" width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml" style="height:100%; width:100%;">
 			<style>
 				.wrapper {
 					box-sizing: border-box;
 					height: 100%;
 					width: 100%;
 
-					background: #2F3E46;
-					background: radial-gradient(ellipse at center, rgba(47, 62, 70, 1) 0%, rgba(53, 79, 82, 1) 50%, rgba(82, 121, 111, 1) 85%, rgba(132, 169, 140, 1) 100%);
-
+					background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+					
 					display: flex;
 					flex-direction: column;
 					align-items: center;
-					justify-content: center;
+					justify-content: space-evenly;
 
-					padding: 15px;
+					padding: 16px;
 				}
         		.title {
-					height: 100%;
-					width: 100%;
 
 					display: flex;
 					align-items: center;
@@ -36,11 +33,19 @@
 					align-items: center;
 					justify-content: space-evenly;
 					gap: 2rem;
+					width: 80%;
+					background-color: #cad2c5;
+					border-radius: 9999px;
+					padding: 0.5rem;
 				}
 				.techStackItem {
 					display: flex;
 					align-items: center;
 					justify-content: center;
+					color: #cad2c5;
+					background-color: rgba(47, 62, 70, 1); 
+					border-radius: 9999px;
+					padding:2rem;
 				}
     		</style>
 
