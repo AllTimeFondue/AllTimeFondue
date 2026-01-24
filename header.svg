@@ -1,13 +1,41 @@
-<svg fill="none" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject height="100%" width="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .text {
-        
-        }  
-      </style>
-      
-      
-    </div>
-  </foreignObjet>
+<svg fill="none" height="40%" width="100%" xmlns="http://www.w3.org/2000/svg">
+  	<foreignObject height="100%" width="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.wrapper {
+					box-sizing: border-box;
+					height: 100%;
+					width: 100%;
+
+					background: #2F3E46;
+					background: radial-gradient(ellipse at center, rgba(47, 62, 70, 1) 0%, rgba(53, 79, 82, 1) 50%, rgba(82, 121, 111, 1) 85%, rgba(132, 169, 140, 1) 100%);
+
+					display: flex;
+					align-items: center;
+					justify-content: center;
+
+					padding: 15px;
+				}
+        		.text {
+					height: 100%;
+					width: 100%;
+
+					display: flex;
+					align-items: center;
+					justify-content: center;
+
+					color: #cad2c5;
+					font-size: xx-large;
+					font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+					font-weight: 800;
+        		}  
+    		</style>
+
+			<div class="wrapper">
+				<div class="text">
+					Welcome wanderer !
+				</div>
+			</div>
+    	</div>
+	</foreignObjet>
 </svg>
