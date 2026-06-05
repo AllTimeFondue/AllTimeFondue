@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=AllTimeFondue&fontSize=70&fontColor=100:ffffff&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=AllTimeFondue&fontSize=70&fontColor=ffffff&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=42+Student;Cybersecurity+Branch;📍+Paris;Looking+for+an+internship+😊)](https://git.io/typing-svg)
 
