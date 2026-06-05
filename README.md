@@ -4,37 +4,14 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:4B0082,100:7F77DD&height=220&section=header&text=AllTimeFondue&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Crafter%20of%20weird%20things&descAlignY=60&descSize=16&descColor=AFA9EC)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=AllTimeFondue&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=console.log(%22Hello+World+%F0%9F%91%8B%22);Building+things+that+matter...;Always+learning%2C+always+shipping.;Open+to+collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=42+Student;Cybersecurity+Branch;📍+Paris;Looking+for+an+internship+😊)](https://git.io/typing-svg)
 
-<br/>
 
-<!-- Badges compteur de vues + réseaux -->
-![Profile views](https://komarev.com/ghpvc/?username=AllTimeFondue&color=7F77DD&style=flat-square&label=profile+views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AllTimeFondue?style=flat-square&color=534AB7&labelColor=0d0d0d&label=followers)](https://github.com/AllTimeFondue)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-lebon/)
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          À PROPOS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-```javascript
-const me = {
-  name:     "YOUR_NAME",
-  location: "📍 Paris, France",
-  role:     "Fullstack Developer",
-  focus:    ["Web Apps", "APIs", "Open Source"],
-  currently: "Building something cool 👀",
-  funFact:   "My code works on the first try... sometimes.",
-};
-```
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        TECH STACK                             -->
@@ -42,29 +19,30 @@ const me = {
 
 ## 🛠️ &nbsp;Tech Stack
 
+<br/>
+
 <div align="center">
 
 **Frontend**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,ts,js,css,tailwind&perline=8)](https://skillicons.dev)
 
 **Backend**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,c,c++&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp&perline=8)](https://skillicons.dev)
 
 **Bases de données & DevOps**
 
-[![Skills](https://skillicons.dev/icons?i=docker,github,linux&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,bash,docker,git&perline=8)](https://skillicons.dev)
 
 </div>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    STATS GITHUB                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Stats
+<!-- ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -95,13 +73,23 @@ const me = {
 <!--                    LANGAGES LES + UTILISÉS                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllTimeFondue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7F77DD&text_color=AFA9EC&langs_count=8)](https://github.com/AllTimeFondue)
+<p><strong>Langages principaux</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff" alt="Bash" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    PROJETS ÉPINGLÉS                           -->
@@ -115,72 +103,83 @@ const me = {
 <tr>
 <td width="50%" valign="top">
 
-### [🔮 Projet Alpha](https://github.com/YOUR_USERNAME/project-alpha)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project-alpha?style=flat-square&color=7F77DD&labelColor=0d0d0d)
-![Tech](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![Tech](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### [🔮 Snowcrash](https://github.com/AllTimeFondue/Snowcrash)
+![Stars](https://img.shields.io/github/stars/AllTimeFondue/Snowcrash?style=flat-square&color=7F77DD&labelColor=0d0d0d)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
-Courte description percutante du projet. Ce qu'il fait, pourquoi c'est cool.
+<h3>
+42 project | Cybersecurity branch
+</h3>
+
+Capture the flag with multiple levels on a pre-build sandbox
 
 </td>
 <td width="50%" valign="top">
 
-### [⚡ Projet Beta](https://github.com/YOUR_USERNAME/project-beta)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project-beta?style=flat-square&color=7F77DD&labelColor=0d0d0d)
-![Tech](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tech](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+### [⚡ Minishell](https://github.com/AllTimeFondue/Minishell)
+![Stars](https://img.shields.io/github/stars/AllTimeFondue/Minishell?style=flat-square&color=7F77DD&labelColor=0d0d0d)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
-Courte description percutante du projet. Ce qu'il fait, pourquoi c'est cool.
+<h3>
+42 project | Common Core
+</h3>
+
+Light command-line interpreter based on Bash
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [🌐 Projet Gamma](https://github.com/YOUR_USERNAME/project-gamma)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project-gamma?style=flat-square&color=7F77DD&labelColor=0d0d0d)
-![Tech](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Tech](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### [🌐 Libasm](https://github.com/AllTimeFondue/Libasm)
+![Stars](https://img.shields.io/github/stars/AllTimeFondue/Libasm?style=flat-square&color=7F77DD&labelColor=0d0d0d)
+[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
 
-Courte description percutante du projet. Ce qu'il fait, pourquoi c'est cool.
+<h3>
+42 project | System & Kernel branch
+</h3>
+
+Small x86_64 assembly library
 
 </td>
 <td width="50%" valign="top">
 
-### [🎯 Projet Delta](https://github.com/YOUR_USERNAME/project-delta)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project-delta?style=flat-square&color=7F77DD&labelColor=0d0d0d)
-![Tech](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tech](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### [🎯 IRC](https://github.com/AllTimeFondue/Irc)
+![Stars](https://img.shields.io/github/stars/AllTimeFondue/Irc?style=flat-square&color=7F77DD&labelColor=0d0d0d)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
-Courte description percutante du projet. Ce qu'il fait, pourquoi c'est cool.
+<h3>
+42 project | Common core
+</h3>
 
-</td>
+Light live chat server based on IRC protocol
+
+</td> 
 </tr>
 </table>
 
 </div>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TROPHÉES                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=AllTimeFondue&theme=onedark&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
 
-<br/>
+</div> -->
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-*"First, solve the problem. Then, write the code."*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:4B0082,100:0d0d0d&height=120&section=footer)
 
