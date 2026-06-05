@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=AllTimeFondue&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=AllTimeFondue&fontSize=70&fontColor=100:ffffff&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=42+Student;Cybersecurity+Branch;📍+Paris;Looking+for+an+internship+😊)](https://git.io/typing-svg)
 
@@ -105,6 +105,7 @@
 
 ### [🔮 Snowcrash](https://github.com/AllTimeFondue/Snowcrash)
 ![Stars](https://img.shields.io/github/stars/AllTimeFondue/Snowcrash?style=flat-square&color=7F77DD&labelColor=0d0d0d)
+</br>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
@@ -119,6 +120,7 @@ Capture the flag with multiple levels on a pre-build sandbox
 
 ### [⚡ Minishell](https://github.com/AllTimeFondue/Minishell)
 ![Stars](https://img.shields.io/github/stars/AllTimeFondue/Minishell?style=flat-square&color=7F77DD&labelColor=0d0d0d)
+</br>
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
@@ -135,6 +137,7 @@ Light command-line interpreter based on Bash
 
 ### [🌐 Libasm](https://github.com/AllTimeFondue/Libasm)
 ![Stars](https://img.shields.io/github/stars/AllTimeFondue/Libasm?style=flat-square&color=7F77DD&labelColor=0d0d0d)
+</br>
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
 
 <h3>
@@ -148,6 +151,7 @@ Small x86_64 assembly library
 
 ### [🎯 IRC](https://github.com/AllTimeFondue/Irc)
 ![Stars](https://img.shields.io/github/stars/AllTimeFondue/Irc?style=flat-square&color=7F77DD&labelColor=0d0d0d)
+</br>
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 <h3>
