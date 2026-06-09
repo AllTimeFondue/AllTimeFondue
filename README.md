@@ -27,11 +27,11 @@
 
 [![Skills](https://skillicons.dev/icons?i=html,ts,js,css,tailwind&perline=8)](https://skillicons.dev)
 
-**Backend**
+**Languages**
 
 [![Skills](https://skillicons.dev/icons?i=c,cpp&perline=8)](https://skillicons.dev)
 
-**Bases de données & DevOps**
+**System & DevOps**
 
 [![Skills](https://skillicons.dev/icons?i=linux,bash,docker,git&perline=8)](https://skillicons.dev)
 
