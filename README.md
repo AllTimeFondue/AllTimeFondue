@@ -25,15 +25,15 @@
 
 **Frontend**
 
-[![Skills](https://skillicons.dev/icons?i=html,ts,js,css,tailwind&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,ts,js,css,tailwind&perline=8)]
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp&perline=8)]
 
 **System & DevOps**
 
-[![Skills](https://skillicons.dev/icons?i=linux,bash,docker,git&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,bash,docker,git&perline=8)]
 
 </div>
 
