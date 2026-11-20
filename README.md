@@ -10,6 +10,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-lebon/)
+[![Root-Me](https://img.shields.io/badge/Root--Me-000000.svg?style=for-the-badge)](https://www.root-me.org/AllTimeFondue)
 
 </div>
 
@@ -29,11 +30,11 @@
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp&perline=8)](#)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python&perline=8)](#)
 
 **System & DevOps**
 
-[![Skills](https://skillicons.dev/icons?i=linux,bash,docker,git&perline=8)](#)
+[![Skills](https://skillicons.dev/icons?i=linux,bash,docker,git,kubernetes&perline=8)](#)
 
 </div>
 
@@ -103,7 +104,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [🔮 Snowcrash](https://github.com/AllTimeFondue/Snowcrash)
+### [Snowcrash](https://github.com/AllTimeFondue/Snowcrash)
 ![Stars](https://img.shields.io/github/stars/AllTimeFondue/Snowcrash?style=flat-square&color=7F77DD&labelColor=0d0d0d)
 </br>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
@@ -118,7 +119,7 @@ Capture the flag with multiple levels on a pre-build sandbox
 </td>
 <td width="50%" valign="top">
 
-### [⚡ Minishell](https://github.com/AllTimeFondue/Minishell)
+### [Minishell](https://github.com/AllTimeFondue/Minishell)
 ![Stars](https://img.shields.io/github/stars/AllTimeFondue/Minishell?style=flat-square&color=7F77DD&labelColor=0d0d0d)
 </br>
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -135,7 +136,7 @@ Light command-line interpreter based on Bash
 <tr>
 <td width="50%" valign="top">
 
-### [🌐 Libasm](https://github.com/AllTimeFondue/Libasm)
+### [Libasm](https://github.com/AllTimeFondue/Libasm)
 ![Stars](https://img.shields.io/github/stars/AllTimeFondue/Libasm?style=flat-square&color=7F77DD&labelColor=0d0d0d)
 </br>
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
@@ -149,16 +150,19 @@ Small x86_64 assembly library
 </td>
 <td width="50%" valign="top">
 
-### [🎯 IRC](https://github.com/AllTimeFondue/Irc)
-![Stars](https://img.shields.io/github/stars/AllTimeFondue/Irc?style=flat-square&color=7F77DD&labelColor=0d0d0d)
+### [IoT](https://github.com/AllTimeFondue/Inception-Of-Things)
+![Stars](https://img.shields.io/github/stars/AllTimeFondue/Inception-Of-Things?style=flat-square&color=7F77DD&labelColor=0d0d0d)
 </br>
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
+[![K3s](https://img.shields.io/badge/K3s-FFC61E?logo=k3s&logoColor=000)](https://k3s.io/)
+[![K3d](https://img.shields.io/badge/K3d-02A6F2?logo=kubernetes&logoColor=white)](https://k3d.io/)
+[![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
 
 <h3>
-42 project | Common core
+42 project | SysAdmin & DevOps branch
 </h3>
 
-Light live chat server based on IRC protocol
+42’s Inception-Of-Things — Vagrant, K3s, K3d & ArgoCD GitOps project.
 
 </td> 
 </tr>
